@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="CBT_Suite" duration-ms="133913" started-at="2020-03-12T19:55:55 CDT" finished-at="2020-03-12T19:58:09 CDT">
+    <groups>
+    </groups>
+    <test name="ChromeTestResults" duration-ms="32390" started-at="2020-03-12T19:55:55 CDT" finished-at="2020-03-12T19:56:28 CDT">
+      <class name="TestNG.CrossbrowserTesting">
+        <test-method status="PASS" signature="beforeClass(java.lang.String)[pri:0, instance:TestNG.CrossbrowserTesting@185d8b6]" name="beforeClass" is-config="true" duration-ms="7974" started-at="2020-03-12T19:55:55 CDT" finished-at="2020-03-12T19:56:03 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="f()[pri:0, instance:TestNG.CrossbrowserTesting@185d8b6]" name="f" duration-ms="16832" started-at="2020-03-12T19:56:03 CDT" finished-at="2020-03-12T19:56:20 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:TestNG.CrossbrowserTesting@185d8b6]" name="afterMethod" is-config="true" duration-ms="2426" started-at="2020-03-12T19:56:20 CDT" finished-at="2020-03-12T19:56:23 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:TestNG.CrossbrowserTesting@185d8b6]" name="afterClass" is-config="true" duration-ms="5058" started-at="2020-03-12T19:56:23 CDT" finished-at="2020-03-12T19:56:28 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- TestNG.CrossbrowserTesting -->
+    </test> <!-- ChromeTestResults -->
+    <test name="ieTestResults" duration-ms="48232" started-at="2020-03-12T19:56:28 CDT" finished-at="2020-03-12T19:57:16 CDT">
+      <class name="TestNG.CrossbrowserTesting">
+        <test-method status="PASS" signature="beforeClass(java.lang.String)[pri:0, instance:TestNG.CrossbrowserTesting@578486a3]" name="beforeClass" is-config="true" duration-ms="23277" started-at="2020-03-12T19:56:28 CDT" finished-at="2020-03-12T19:56:51 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ie]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="f()[pri:0, instance:TestNG.CrossbrowserTesting@578486a3]" name="f" duration-ms="23907" started-at="2020-03-12T19:56:51 CDT" finished-at="2020-03-12T19:57:15 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:TestNG.CrossbrowserTesting@578486a3]" name="afterMethod" is-config="true" duration-ms="483" started-at="2020-03-12T19:57:15 CDT" finished-at="2020-03-12T19:57:15 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:TestNG.CrossbrowserTesting@578486a3]" name="afterClass" is-config="true" duration-ms="554" started-at="2020-03-12T19:57:15 CDT" finished-at="2020-03-12T19:57:16 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- TestNG.CrossbrowserTesting -->
+    </test> <!-- ieTestResults -->
+    <test name="FirefoxTestResults" duration-ms="53114" started-at="2020-03-12T19:57:16 CDT" finished-at="2020-03-12T19:58:09 CDT">
+      <class name="TestNG.CrossbrowserTesting">
+        <test-method status="PASS" signature="beforeClass(java.lang.String)[pri:0, instance:TestNG.CrossbrowserTesting@3cef309d]" name="beforeClass" is-config="true" duration-ms="23130" started-at="2020-03-12T19:57:16 CDT" finished-at="2020-03-12T19:57:39 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="f()[pri:0, instance:TestNG.CrossbrowserTesting@3cef309d]" name="f" duration-ms="18313" started-at="2020-03-12T19:57:39 CDT" finished-at="2020-03-12T19:57:58 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:TestNG.CrossbrowserTesting@3cef309d]" name="afterMethod" is-config="true" duration-ms="2355" started-at="2020-03-12T19:57:58 CDT" finished-at="2020-03-12T19:58:00 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:TestNG.CrossbrowserTesting@3cef309d]" name="afterClass" is-config="true" duration-ms="9306" started-at="2020-03-12T19:58:00 CDT" finished-at="2020-03-12T19:58:09 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- TestNG.CrossbrowserTesting -->
+    </test> <!-- FirefoxTestResults -->
+  </suite> <!-- CBT_Suite -->
+</testng-results>
