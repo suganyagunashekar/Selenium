@@ -1,5 +1,8 @@
 package corejava;
 
 public class Loops {
-System.out.println("testing");
+
+	public static void main(String[] args) {
+		System.out.println("testing");
+	}
 }
